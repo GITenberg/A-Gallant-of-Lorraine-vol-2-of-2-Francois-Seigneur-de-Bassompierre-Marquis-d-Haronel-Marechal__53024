@@ -1,0 +1,28 @@
+_repo: A-Gallant-of-Lorraine-vol-2-of-2-Francois-Seigneur-de-Bassompierre-Marquis-d-Haronel-Marechal__53024
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Williams, H. Noel (Hugh Noel)
+    alias: Williams, Hugh Noel
+    birthdate: 1870
+    deathdate: 1925
+    gutenberg_agent_id: '38950'
+    url: http://www.gutenberg.org/2009/agents/38950
+description: ''
+gutenberg_issued: '2016-09-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53024'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'France -- Court and courtiers'
+- !lcsh 'Bassompierre, François de, 1579-1646'
+- !lcsh 'France -- History -- Bourbons, 1589-1789'
+- !lcc 'DC'
+- GITenberg
+title: "A Gallant of Lorraine; vol. 2 of 2\r\nFrançois, Seigneur de Bassompierre,\
+  \ Marquis d'Haronel, Maréchal de France, 1579-1646"
+url: http://www.gutenberg.org/ebooks/53024
