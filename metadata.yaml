@@ -1,5 +1,8 @@
 _repo: A-Gallant-of-Lorraine-vol-2-of-2-Francois-Seigneur-de-Bassompierre-Marquis-d-Haronel-Marechal__53024
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 53024-h/images/cover.jpg
 creator:
   author:
     agent_name: Williams, H. Noel (Hugh Noel)
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '38950'
     url: http://www.gutenberg.org/2009/agents/38950
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/53024#A-Gallant-of-Lorraine-vol-2-of-2-Francois-Seigneur-de-Bassompierre-Marquis-d-Haronel-Marechal_
 gutenberg_issued: '2016-09-10'
 gutenberg_type: Text
 identifiers:
